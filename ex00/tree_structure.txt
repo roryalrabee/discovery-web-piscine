@@ -1,0 +1,40 @@
+.:
+total 0
+drwxr-xr-x 1 roaa roaa   42 Oct  4 23:15 .
+drwxr-xr-x 1 roaa roaa 1036 Oct  4 23:14 ..
+drwxr-xr-x 1 roaa roaa    0 Oct  4 23:15 archives
+drwxr-xr-x 1 roaa roaa    6 Oct  4 23:16 projects
+drwxr-xr-x 1 roaa roaa    0 Oct  4 23:15 tools
+
+./archives:
+total 0
+drwxr-xr-x 1 roaa roaa  0 Oct  4 23:15 .
+drwxr-xr-x 1 roaa roaa 42 Oct  4 23:15 ..
+
+./projects:
+total 0
+drwxr-xr-x 1 roaa roaa  6 Oct  4 23:16 .
+drwxr-xr-x 1 roaa roaa 42 Oct  4 23:15 ..
+drwxr-xr-x 1 roaa roaa 30 Oct  4 23:16 web
+
+./projects/web:
+total 0
+drwxr-xr-x 1 roaa roaa 30 Oct  4 23:16 .
+drwxr-xr-x 1 roaa roaa  6 Oct  4 23:16 ..
+drwxr-xr-x 1 roaa roaa  0 Oct  4 23:16 backend
+drwxr-xr-x 1 roaa roaa  0 Oct  4 23:16 frontend
+
+./projects/web/backend:
+total 0
+drwxr-xr-x 1 roaa roaa  0 Oct  4 23:16 .
+drwxr-xr-x 1 roaa roaa 30 Oct  4 23:16 ..
+
+./projects/web/frontend:
+total 0
+drwxr-xr-x 1 roaa roaa  0 Oct  4 23:16 .
+drwxr-xr-x 1 roaa roaa 30 Oct  4 23:16 ..
+
+./tools:
+total 0
+drwxr-xr-x 1 roaa roaa  0 Oct  4 23:15 .
+drwxr-xr-x 1 roaa roaa 42 Oct  4 23:15 ..
