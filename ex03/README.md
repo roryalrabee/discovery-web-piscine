@@ -24,3 +24,4 @@ A first project where I practice basic Linux skills.
 - With Git, each person works separately and then they merge their changes.
 
 I also set up SSH keys.
+I learned that SSH uses a public and a private key.
