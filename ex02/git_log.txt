@@ -1,0 +1,5 @@
+commit 9e601a1f2da0ab682bdadb1766a7173709319391
+Author: roryalrabee <roaamahmod29@gmail.com>
+Date:   Mon Oct 5 11:02:06 2026 +0300
+
+    Add exercises 00 to 02: terminal navigation, file manipulation, and hello.txt
